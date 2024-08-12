@@ -1,0 +1,53 @@
+Social Share Hub (EWPT Module)
+
+The Social Share Hub module currently offers over 50 customizable social share icons. To further elevate the user experience, the premium version will introduce advanced features that provide site owners with greater control, customization, and insights into their social sharing strategies.
+
+Planned Premium Features Overview
+
+1. Custom Share Icons
+Add New Custom Icons: Users can upload and integrate their own custom share icons, allowing for unique branding opportunities. This feature supports various formats, including SVG, PNG, and JPEG, ensuring flexibility in design choices.
+
+2. Click Tracking and Analytics
+Share Icon Click Tracking: Track the number of clicks each share icon receives. This data is displayed on a dedicated analytics dashboard, offering insights into the most effective social channels and helping users optimize their sharing strategy.
+
+Conversion Tracking: Beyond clicks, users can track conversions (e.g., sign-ups, purchases) generated through shared content, giving a complete picture of the social sharing impact.
+
+3. Icon Types and Layouts
+Flexible Icon Layouts: The module will offer multiple layout options, including:
+
+Icon Only: Minimalist design featuring only the social media icon.
+
+Icon with Text: Icons accompanied by the name of the social media platform or custom text.
+
+Side-by-Side: Icons and text displayed side by side for a more detailed and engaging presentation.
+
+Customizable Text: Users can personalize the accompanying text for each icon, choosing the font, size, color, and style to match their site’s aesthetics.
+
+4. Enhanced Frontend Display
+Icon Modal with Search Feature: On the frontend, all social share icons can be displayed in a pop-up modal. The modal includes a search feature, allowing visitors to quickly find and use their preferred social platform for sharing content.
+
+Customizable Modal Design: The modal's appearance can be customized, including background color, opacity, and animation effects, ensuring it aligns with the site’s design.
+
+5. Expanded Icon Design Templates
+Additional Icon Design Templates: The premium version will include a broader range of icon design templates, expanding beyond the three currently available. These new designs will offer various styles, including minimalist, flat, 3D, and animated icons, catering to different branding needs.
+
+Icon Animation Effects: Users can apply hover effects and animations to the icons, such as bounce, fade, or rotate, to increase user engagement.
+
+6. Page Specefic Share Icons
+Page Inclution: Display share icons slot that are only for spcefic page(s).
+
+Page Exclusion: Exclude pages that won't display the specefic share icons slot.
+
+7. Geo-Targeted Social Sharing
+Location-Based Share Suggestions: The module can suggest specific social media platforms based on the visitor’s geographic location, enhancing the relevance and effectiveness of the share options presented.
+
+8. Mobile Optimization and Responsiveness
+Mobile-Optimized Icons: All share icons are fully responsive and optimized for mobile devices, ensuring they are easily accessible and functional across all screen sizes.
+
+Adaptive Icon Sizing: Icons will automatically adjust in size based on the screen resolution, providing an optimal user experience without compromising on design or functionality.
+
+9. A/B Testing for Share Icons
+Split Testing: Users can run A/B tests on different icon designs, layouts, and placements to determine which configurations drive the most shares. Detailed analytics will help users make data-driven decisions to optimize their social sharing strategy.
+
+
+These premium features are designed to make the Social Share Hub a comprehensive tool for site owners looking to enhance their social media engagement, track performance, and customize their sharing experience to better meet their audience's needs.
