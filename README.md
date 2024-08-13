@@ -1,4 +1,4 @@
-# Social Share Hub (EWPT Module) `v1.0.0`
+# Social Share Hub (EWPT Module) `v1.1.0`
 
 Integrate social share hub (buttons) into posts, pages, and custom post types with customization options.
 
